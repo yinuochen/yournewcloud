@@ -1,0 +1,55 @@
+baseURL = "http://yournewcloud.com/"
+DefaultContentLanguage = "en"
+title = "Your New Cloud"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[params]
+  # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
+  subtitle    = "How I Use the Cloud"
+  logo = "img/avatar-icon.png" # Expecting square dimensions
+  favicon = "img/favicon.ico"
+  dateFormat  = "January 2, 2006"
+  commit = false
+  rss = false
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+  
+
+[Author]
+  name = "James Chen"
+  github = "yinuochen"
+  linkedin = "yinuojchen"
+
+[[menu.main]]
+  name = "Blog"
+  url = ""
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  weight = 3
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags"
+  weight = 3
