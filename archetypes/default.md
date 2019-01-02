@@ -4,7 +4,10 @@ author: "James Chen"
 type: ""
 date: {{ .Date }}
 subtitle: ""
+draft: true
 image: ""
-tags: []
+tags:
+  - cloud
+  - aws
 ---
 

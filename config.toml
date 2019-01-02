@@ -12,6 +12,9 @@ pygmentsCodefencesGuessSyntax = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
 
+[permalinks]
+  post = "/:year/:month/:day/:title/"
+
 [params]
   # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
   subtitle    = "How I Use the Cloud"
