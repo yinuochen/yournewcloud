@@ -6,4 +6,4 @@ comments: false
 
 Hi, I'm a DevOps engineer.
 
-I mainly focus on AWS, but sometimes talk about other DevOpsy things as well, and rarely talk about 
+What is it that DevOps Engineers do? We try to break down silos

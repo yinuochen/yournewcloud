@@ -9,15 +9,15 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-#disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+disqusShortname = "yournewcloud"
+googleAnalytics = "UA-98642481-1"
 
 [permalinks]
   post = "/:year/:month/:day/:title/"
 
 [params]
   # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle    = "How I Use the Cloud"
+  subtitle    = "My Cloud Experiences"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat  = "January 2, 2006"
@@ -54,5 +54,5 @@ pygmentsCodefencesGuessSyntax = true
 
 [[menu.main]]
   name = "Tags"
-  url = "tags"
+  url = "/tags"
   weight = 3
