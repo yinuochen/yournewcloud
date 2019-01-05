@@ -4,6 +4,9 @@ title: "About Me"
 comments: false
 ---
 
-Hi, I'm a DevOps engineer.
+Hi, I'm a DevOps engineer working for Onica in Irvine, CA.
 
-What is it that DevOps Engineers do? We focused on increasing the velocity of development and the delivery of applications for an organization.
+My goal is to share my cloud experiences to help others architect and find ideas to setup their own cloud infrastructure. Learning cloud was a major shift for me as I came from a traditional IT background with data centers and network switches/routers. I hope to bring the same transformation to other people and companies who needs it.
+
+Other than working on the cloud, I like doing photography and traveling on my free time. Below is a picture of my work.
+

@@ -1,4 +1,4 @@
-baseURL = "http://yournewcloud.com/"
+baseURL = "https://yournewcloud.com/"
 DefaultContentLanguage = "en"
 title = "Your New Cloud"
 theme = "beautifulhugo"
@@ -17,7 +17,7 @@ googleAnalytics = "UA-98642481-1"
 
 [params]
   # homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page
-  subtitle    = "My Cloud Experiences"
+  subtitle    = "Building upon the Cloud"
   logo = "img/avatar-icon.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat  = "January 2, 2006"
